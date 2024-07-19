@@ -1,2 +1,1 @@
 # CyberGuard-OCR
-OCR Tool
